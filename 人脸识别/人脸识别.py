@@ -3,7 +3,7 @@ import sys
 import cv2
 import  face_recognition  # 人脸识别库
 
-face_image = face_recognition.load_image_file(r'f:\bj\人脸识别\8.png')
+face_image = face_recognition.load_image_file(r'e:\python_study\人脸识别\8.png')
 
 #print(face_image)
 # print(type(face_image)) # 这是一个多维数组
