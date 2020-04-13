@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/cloudservice.ico</file>
+    <file>images/cmder.ico</file>
+    <file>images/cmder_blue.ico</file>
+    <file>images/cmder_green.ico</file>
+    <file>images/cmder_orange.ico</file>
+    <file>images/cmder_purple.ico</file>
+    <file>images/cmder_red.ico</file>
+    <file>images/cmder_yellow.ico</file>
+    <file>images/HLM.ico</file>
+    <file>images/qq.ico</file>
+    <file>images/root.ico</file>
+    <file>images/tm.ico</file>
+    <file>images/ttraveler.ico</file>
+    <file>images/xml.ico</file>
+    <file>images/cmder.ico</file>
+  </qresource>
+</RCC>
