@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'E:\python_xls\MainWinMenuToolbar.ui'
+# Form implementation generated from reading ui file 'E:\python_study\MainWinMenuToolbar.ui'
 #
 # Created by: PyQt5 UI code generator 5.13.0
 #
