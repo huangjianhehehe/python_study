@@ -7,7 +7,7 @@ def Qty_validation(row):
 	try:
 		assert row.Qty==20 # 使用断言,也可以用if
 	except:
-		print(f'zj_data{row.Procuct_Id}has an invalid Pty{row.Qty}.')
+		print(r'zj_data{row.Procuct_Id}has an invalid Pty{row.Qty}.')
 
 zj_data = pd.read_excel('./4列.xlsx')
 
